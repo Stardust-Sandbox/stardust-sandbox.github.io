@@ -1,0 +1,30 @@
+title: "Stardust Sandbox"
+description: "Official website for Stardust Sandbox."
+
+collections:
+  changelogs:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "pages"
+    values:
+      layout: page
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+  - scope:
+      type: changelogs
+    values:
+      layout: changelog
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
