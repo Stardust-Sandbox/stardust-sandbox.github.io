@@ -1,8 +1,9 @@
 ---
 layout: post
-language: en-US
+
 release_date: 2026-06-04
 name: Upcoming Features and Improvements
+permalink: /blog/upcoming-features-and-improvements/
 ---
 
 # Upcoming Features and Improvements

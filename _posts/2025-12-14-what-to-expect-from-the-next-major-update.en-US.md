@@ -1,8 +1,9 @@
 ---
 layout: post
-language: en-US
+
 release_date: 2025-12-14
 name: What to Expect from the Next Major Update?
+permalink: /blog/what-to-expect-from-the-next-major-update/
 ---
 
 # What to Expect from the Next Major Update?

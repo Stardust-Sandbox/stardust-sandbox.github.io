@@ -1,8 +1,9 @@
 ---
 layout: post
-language: en-US
+
 release_date: 2025-12-26
 name: Original Soundtrack Volume 1
+permalink: /blog/original-soundtrack-volume-1/
 ---
 
 # Original Soundtrack: Volume 1

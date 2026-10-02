@@ -1,8 +1,9 @@
 ---
 layout: post
-language: en-US
+
 release_date: 2026-03-03
 name: Official Steam Release
+permalink: /blog/official-steam-release/
 ---
 
 # Official Steam Release

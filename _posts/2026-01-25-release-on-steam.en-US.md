@@ -1,8 +1,9 @@
 ---
 layout: post
-language: en-US
+
 release_date: 2026-01-25
 name: Release on Steam
+permalink: /blog/release-on-steam/
 ---
 
 # Release on Steam
