@@ -1,12 +1,9 @@
 ---
 layout: post
-
-release_date: 2026-03-03
-name: Official Steam Release
+title: Official Steam Release
+date: 2026-03-03
 permalink: /blog/official-steam-release/
 ---
-
-# Official Steam Release
 
 Hello, everyone! I'm thrilled to share some exciting news: Stardust Sandbox is now officially available on Steam! This is a special moment for the project and, honestly, very meaningful for me as well.
 

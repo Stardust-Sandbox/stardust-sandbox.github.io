@@ -1,18 +1,15 @@
 ---
 layout: post
-
-release_date: 2025-12-14
-name: What to Expect from the Next Major Update?
+title: What to Expect from the Next Major Update?
+date: 2025-12-14
 permalink: /blog/what-to-expect-from-the-next-major-update/
 ---
 
-# What to Expect from the Next Major Update?
-
-## **1. Introduction**
+## 1. Introduction
 
 Hello, my name is Starciad, and I am the lead developer behind **Stardust Sandbox**. Through this post, I would like to clarify and share some of what has been planned for the next major update of the project and, as a bonus, talk a bit about the current development progress and other related aspects. So, make yourself comfortable, because our journey is only just beginning!
 
-## **2. Acknowledgements**
+## 2. Acknowledgements
 
 First of all, I would like to sincerely thank everyone for the tremendous support the game has received recently, from its official release (version 1.0.0.0) to the most recent updates (version 1.2.2.0). It is incredibly rewarding to work on a game that, somewhat unexpectedly, has become one of my most popular projects in recent years.
 
@@ -24,51 +21,51 @@ As some of you may have noticed, the project was relatively inactive throughout 
 
 There are still many things left to be done, and this post serves as a teaser for what is coming, as well as a way to break the silence and make it clear that the project has not been abandoned. That said, enough digressions — let’s take a concrete look at what is being added to the game.
 
-## **3. What’s New**
+## 3. What’s New
 
 The goal here is not to present a complete changelog of everything that is coming, but rather to highlight the main points of the next update. After all, what would a falling sand sandbox be without the addition of new elements?
 
-### **3.1. Elements**
+### 3.1. Elements
 
 In the next update, more than **20 new element** types will be added for use in all kinds of creative constructions. Below are some of the most interesting ones that are already up and running:
 
-#### **3.1.1. Pushers**
+#### 3.1.1. Pushers
 
 These elements push nearby neighbors in the directions indicated by their arrows.
 
 ![Demonstration of the pushing elements](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/main/gifs/elements/pushers.gif)
 
-#### **3.1.2. Anti-corruption**
+#### 3.1.2. Anti-corruption
 
 One way to reverse the damage caused by corruption.
 
 ![Demonstration of the anti-corruption element](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/refs/heads/main/gifs/elements/anti-corruption.gif)
 
-#### **3.1.3. Devourer**
+#### 3.1.3. Devourer
 
 It devours everything within its reach. It explodes if it finds nothing more.
 
 ![Animated GIF demonstrating the devouring element](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/refs/heads/main/gifs/elements/devourer.gif)
 
-#### **3.1.4. Wool**
+#### 3.1.4. Wool
 
 How about decorating your map with these beautiful wool colors?
 
 ![Demonstration of the elements of wool](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/refs/heads/main/gifs/elements/wool.gif)
 
-#### **3.1.5. Lightning**
+#### 3.1.5. Lightning
 
 Warning...! Risk of lightning...
 
 ![Demonstration of the lightning element](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/refs/heads/main/gifs/elements/lightning.gif)
 
-#### **3.1.6. Moss**
+#### 3.1.6. Moss
 
 Moss is unstoppable... It spreads across various surfaces, including water!
 
 ![Demonstration of the moss element](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/refs/heads/main/gifs/elements/moss.gif)
 
-#### **3.1.7. Clouds**
+#### 3.1.7. Clouds
 
 It seems we now have the complete water cycle here.
 
@@ -80,11 +77,11 @@ And another thing: if the clouds are below 0ºC, snow will start falling from th
 
 And there's also the possibility of lightning strikes!
 
-#### **3.1.8. Conclusion**
+#### 3.1.8. Conclusion
 
 Keep in mind that this is just a small preview of what’s coming. Many other elements will also be available for experimentation and fun.
 
-### **3.2. Interfaces**
+### 3.2. Interfaces
 
 Another major change was the **complete rewrite of the interface system**. I hope this section does not sound overly technical, but it is important to explain how the system worked previously.
 
@@ -106,19 +103,17 @@ And to go beyond theory, below is a direct comparison between the old HUD and th
 
 ![Demonstration of the old HUD interface](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/refs/heads/main/gifs/interfaces/old_hud.gif)
 
-
 > **New HUD**
 
 ![Demonstration of the new HUD interface](https://raw.githubusercontent.com/Starciad/StardustSandbox.Resources/refs/heads/main/gifs/interfaces/new_hud.gif)
 
-
 In addition to small animations on each slot when hovering the mouse, you can also notice smooth transitions when opening or closing toolbars in the HUD. A significant improvement, wouldn’t you agree?
 
-### **3.3. Other Changes**
+### 3.3. Other Changes
 
 In addition to what was mentioned above, several other substantial changes have already been implemented in the project. These will be covered in much more detail in the official changelog of the next update. 🙂
 
-## **4. Final Notes**
+## 4. Final Notes
 
 That’s quite a lot, I know. There is still a long road ahead, but the release of this update is planned for **December**. In case of delays or unforeseen issues, the release will likely happen early next year, probably in **January**.
 
@@ -128,7 +123,7 @@ If you are interested, feel free to follow the project’s progress on GitHub. T
 
 I hope this post provided a good reading experience and made it clear that the project is neither stalled nor canceled. Exciting updates are on the way — a bit of patience is all that’s needed. Thank you very much for reading, and see you in the next post! ❤
 
-## **5. Links**
+## 5. Links
 
 Game Page (Itch.io):
 <https://starciad.itch.io/stardust-sandbox>

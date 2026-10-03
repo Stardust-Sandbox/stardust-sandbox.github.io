@@ -1,12 +1,9 @@
 ---
 layout: post
-
-release_date: 2025-12-26
-name: Original Soundtrack Volume 1
+title: Original Soundtrack Volume 1
+date: 2025-12-26
 permalink: /blog/original-soundtrack-volume-1/
 ---
-
-# Original Soundtrack: Volume 1
 
 ## Introduction
 

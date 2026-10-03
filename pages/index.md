@@ -20,6 +20,12 @@ There are no predefined objectives or restrictions. The experience is nonlinear 
 
 The goal is to provide the freedom to experiment and discover different possibilities without requiring a specific way to play.
 
+## Blog
+
+The project has a blog where you can find news, updates, and information about the development process. You can access it by clicking the button below.
+
+[Go to Blog](./blog/index.html)
+
 ## Editions
 
 The project has different editions, developed at different times and using different technologies. Select the edition you would like to learn more about below.

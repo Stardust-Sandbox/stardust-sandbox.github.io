@@ -1,12 +1,9 @@
 ---
 layout: post
-
-release_date: 2026-01-25
-name: Release on Steam
+title: Release on Steam
+date: 2026-01-25
 permalink: /blog/release-on-steam/
 ---
-
-# Release on Steam
 
 Hello everyone, I hope you are all doing well!
 
